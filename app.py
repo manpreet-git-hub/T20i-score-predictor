@@ -19,7 +19,7 @@ teams = ['Australia',
  'South Africa',
  'England',
  'West Indies',
- 'Zimbawe',
+ 'Zimbabwe',
  'Pakistan',
  'Sri Lanka']
 
